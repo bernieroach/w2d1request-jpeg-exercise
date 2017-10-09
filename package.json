@@ -1,0 +1,21 @@
+{
+  "name": "httprequest",
+  "version": "1.0.0",
+  "description": "HTTP requests with the request HTTP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "LHL",
+    "lhl",
+    "w2d1",
+    "HTTP",
+    "request"
+  ],
+  "author": "Bernard Roach",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
